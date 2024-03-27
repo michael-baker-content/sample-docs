@@ -3,46 +3,47 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# Resume
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Michael Baker, Technical Content Editor
 
-## Getting Started
+### Personal Information and Background
 
-Get started by **creating a new site**.
+- **Phone:** Provided upon request
+- **Location:** Oakland, California
+- **Github:** https://github.com/michael-baker-content
+- **LinkedIn:** https://www.linkedin.com/in/michael-baker-content
+- **Summary:**
+  - I’m a dedicated and results-driven content editor with expertise in enterprise content management systems and media production workflows. I’m laser-focused on fine detail, but mindful of the larger context. My facility with the latest industry tools, best practices, and trends reflects my passion for continuous learning and technological exploration.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Recent Work Experience
 
-### What you'll need
+#### The New Stack, _Copy Editor_
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- **Duration:** Jan. 2024 to present
+- **Location:** Portland, OR (remote)
+- **Responsibilities:**
+  - Edited and produced news articles, sponsored content, and ebooks for DevOps-focused media site.
+  - Collaborated in Google Docs to refine content.
+  - Edited content for clarity and concision, ensuring adherence to AP style and internal guides.
+  - Edited copy for ebook marketing efforts.
+  - Produced article content in WordPress CMS.
+  - Used Asana to plan upcoming content projects.
 
-## Generate a new site
+#### Apple (contract via Core Studio), _Reference Content Producer_
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- **Duration:** Apr. 2022 to Apr. 2023
+- **Location:** Cupertino, CA (hybrid)
+- **Responsibilities:**
+  - Developed and edited source content materials in Apple’s iWork suite (Pages, Preview, Keynote).
+  - Created, updated, and localized reference articles in Adobe Experience Manager (AEM).
+  - Managed, organized, and published digital assets in AEM’s digital asset management system.
+  - Updated audiences (job roles, countries, and geos) for new and updated reference articles.
+  - Developed content in cross-functional teams with business partners and subject matter experts.
+  - Collaborated with and assisted business partners to refine content strategy and design.
+  - Edited content for clarity and concision.
+  - Ensured copy followed prescribed style format (The Chicago Manual of Style, internal guides).
+  - Created alternative text and image description metadata to improve accessibility of reference articles.
+  - Filed tickets to track and resolve performance issues found in supported software and systems.
+  - Managed localization for Apple Keynote assets.
+  - Managed schedules and project progress in Wrike, FileMaker Pro, and Apple Numbers.
