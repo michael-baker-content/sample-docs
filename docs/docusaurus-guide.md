@@ -83,6 +83,49 @@ Blog post content here...
 
 Create standalone pages in `src/pages/` using React components or Markdown files.
 
+### Content Structure for This Site
+
+This website follows a specific content organization pattern:
+
+#### Homepage Setup
+
+- **Main page**: `docs/using-docusaurus.md` with `slug: /` to serve as homepage
+- **Hero content**: Compelling value proposition with hero image
+- **Call-to-action buttons**: Links to main guide and transformation story
+
+#### Documentation Pages Structure
+
+```
+docs/
+├── using-docusaurus.md        # Homepage (slug: /)
+├── docusaurus-guide.md        # Complete technical guide
+└── site-transformation.md     # Development journey documentation
+```
+
+#### Special Content Features
+
+- **Hero images**: Using existing Docusaurus SVGs from `static/img/`
+- **Styled prompts**: Custom div styling for copyable prompt examples
+- **Dual CTAs**: Multiple button styles for different actions
+- **Progress narrative**: Documentation that tells the development story
+
+#### Front Matter Examples
+
+```markdown
+---
+sidebar_position: 1
+slug: /
+title: Welcome Page
+---
+```
+
+```markdown
+---
+sidebar_position: 2
+title: Complete Docusaurus Guide
+---
+```
+
 ## Navigation and Sidebars
 
 ### Sidebar Configuration
