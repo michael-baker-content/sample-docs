@@ -28,8 +28,9 @@ npm run start  # Instead of npm run dev
 
 **Recommended Prompt**:
 
-> "The app seems to be in a broken state, please fix and debug. The dev server command seems to be crashing with 'Missing script: dev' error."
-
+<div style={{marginLeft: '2rem', padding: '1rem', backgroundColor: 'var(--ifm-code-background)', borderLeft: '4px solid var(--ifm-color-primary)', borderRadius: '0 4px 4px 0', fontStyle: 'italic'}}>
+"The app seems to be in a broken state, please fix and debug. The dev server command seems to be crashing with 'Missing script: dev' error."
+</div>
 ### 2. React CreateRoot Warning Fix
 
 **Problem**: React 18 createRoot() warning during hot reloads in development.
@@ -41,8 +42,9 @@ npm run start  # Instead of npm run dev
 
 **Recommended Prompt**:
 
-> "Debug and fix these errors: Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before."
-
+<div style={{marginLeft: '2rem', padding: '1rem', backgroundColor: 'var(--ifm-code-background)', borderLeft: '4px solid var(--ifm-color-primary)', borderRadius: '0 4px 4px 0', fontStyle: 'italic'}}>
+"Debug and fix these errors: Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before."
+</div>
 ### 3. Broken Links Resolution
 
 **Problem**: Footer links pointing to non-existent pages (`/docs/intro`, `/blog`).
@@ -70,8 +72,9 @@ npm run start  # Instead of npm run dev
 
 **Recommended Prompt**:
 
-> "Change the content of the homepage to indicate that this website is a Docusaurus documentation website and provide a quick teaser for why someone might want to use Docusaurus along with an appropriate hero image."
-
+<div style={{marginLeft: '2rem', padding: '1rem', backgroundColor: 'var(--ifm-code-background)', borderLeft: '4px solid var(--ifm-color-primary)', borderRadius: '0 4px 4px 0', fontStyle: 'italic'}}>
+"Change the content of the homepage to indicate that this website is a Docusaurus documentation website and provide a quick teaser for why someone might want to use Docusaurus along with an appropriate hero image."
+</div>
 ### 5. Documentation Structure
 
 **Added**:
@@ -82,8 +85,9 @@ npm run start  # Instead of npm run dev
 
 **Recommended Prompt**:
 
-> "Add a new section to this site that documents how to use Docusaurus."
-
+<div style={{marginLeft: '2rem', padding: '1rem', backgroundColor: 'var(--ifm-code-background)', borderLeft: '4px solid var(--ifm-color-primary)', borderRadius: '0 4px 4px 0', fontStyle: 'italic'}}>
+"Add a new section to this site that documents how to use Docusaurus."
+</div>
 ---
 
 ## 🎨 Design & User Experience
@@ -104,8 +108,9 @@ colorMode: {
 
 **Recommended Prompt**:
 
-> "Add optional Dark Mode functionality to this website."
-
+<div style={{marginLeft: '2rem', padding: '1rem', backgroundColor: 'var(--ifm-code-background)', borderLeft: '4px solid var(--ifm-color-primary)', borderRadius: '0 4px 4px 0', fontStyle: 'italic'}}>
+"Add optional Dark Mode functionality to this website."
+</div>
 ### 7. Printed Book Aesthetic Transformation
 
 **Major Visual Overhaul**: Complete design system transformation to mimic printed books.
@@ -153,8 +158,9 @@ colorMode: {
 
 **Recommended Prompt**:
 
-> "Update the style of this website to something more like a printed book, with subtle colors and serif typefaces."
-
+<div style={{marginLeft: '2rem', padding: '1rem', backgroundColor: 'var(--ifm-code-background)', borderLeft: '4px solid var(--ifm-color-primary)', borderRadius: '0 4px 4px 0', fontStyle: 'italic'}}>
+"Update the style of this website to something more like a printed book, with subtle colors and serif typefaces."
+</div>
 ---
 
 ## 🚀 Implementation Guide
