@@ -92,12 +92,13 @@ Learn about the specific prompts, techniques, and design decisions that created 
   </a>
   <a href="/site-transformation" style={{
     display: 'inline-block',
-    backgroundColor: 'var(--ifm-color-emphasis-600)',
-    color: 'white',
+    backgroundColor: 'var(--ifm-color-primary-lighter)',
+    color: 'var(--ifm-color-emphasis-900)',
     padding: '12px 24px',
     borderRadius: '6px',
     textDecoration: 'none',
-    fontWeight: 'bold'
+    fontWeight: 'bold',
+    border: '2px solid var(--ifm-color-primary)'
   }}>
     🎨 Transformation Story →
   </a>
