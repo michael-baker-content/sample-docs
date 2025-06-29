@@ -56,6 +56,7 @@ This site demonstrates Docusaurus capabilities while providing comprehensive gui
 - **Customization** - Making it your own with themes and plugins
 - **Deployment** - Publishing your site to the world
 - **Best Practices** - Tips from experienced documentation teams
+- **Site Transformation** - See how this site evolved from template to book-themed design
 
 ---
 
@@ -65,8 +66,20 @@ Docusaurus transforms the traditionally tedious process of documentation into so
 
 **Start building better documentation today** – explore our comprehensive guide and see why thousands of teams trust Docusaurus for their documentation needs.
 
-<div style={{textAlign: 'center', marginTop: '2rem'}}>
-  <a href="/using-docusaurus" style={{
+---
+
+## 🎨 Site Transformation Case Study
+
+Curious about how this elegant book-themed design was created? This site underwent a complete transformation from a basic Docusaurus template to the sophisticated design you see today.
+
+**[📖 View the Complete Transformation Journey →](/site-transformation)**
+
+Learn about the specific prompts, techniques, and design decisions that created this printed book aesthetic, including step-by-step implementation guides you can use for your own projects.
+
+---
+
+<div style={{textAlign: 'center', marginTop: '2rem', display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap'}}>
+  <a href="/docusaurus-guide" style={{
     display: 'inline-block',
     backgroundColor: 'var(--ifm-color-primary)',
     color: 'white',
@@ -75,6 +88,17 @@ Docusaurus transforms the traditionally tedious process of documentation into so
     textDecoration: 'none',
     fontWeight: 'bold'
   }}>
-    📚 Read the Complete Guide →
+    📚 Complete Guide →
+  </a>
+  <a href="/site-transformation" style={{
+    display: 'inline-block',
+    backgroundColor: 'var(--ifm-color-emphasis-600)',
+    color: 'white',
+    padding: '12px 24px',
+    borderRadius: '6px',
+    textDecoration: 'none',
+    fontWeight: 'bold'
+  }}>
+    🎨 Transformation Story →
   </a>
 </div>
