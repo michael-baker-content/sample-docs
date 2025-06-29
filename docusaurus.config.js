@@ -95,8 +95,12 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Documentation",
+                to: "/",
+              },
+              {
+                label: "Complete Guide",
+                to: "/docusaurus-guide",
               },
             ],
           },
@@ -120,10 +124,6 @@ const config = {
           {
             title: "More",
             items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
               {
                 label: "GitHub",
                 href: "https://github.com/facebook/docusaurus",
